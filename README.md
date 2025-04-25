@@ -1,13 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreyash Jagtap</h1>
-<h3 align="center">A passionate software developer from Pune, India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyas5522" alt="shreyas5522" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shreyas5522" target="blank"><img src="https://img.shields.io/twitter/follow/shreyas5522?logo=twitter&style=for-the-badge" alt="shreyas5522" /></a> </p>
-
-- 🔭 I’m currently a **Final Year IT Student** from **Modern College of Engineering, Pune**.
-
-- 👯 I’m looking to collaborate on **[webforecast.tech](https://webforecast.tech)**
 
 - 📫 How to reach me **shreyash5522@gmail.com**
 
